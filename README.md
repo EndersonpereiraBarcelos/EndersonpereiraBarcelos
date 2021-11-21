@@ -14,6 +14,9 @@
   <img align="center" alt="EndersonpereiraBarcelos-Js" height="30" width="87" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="EndersonpereiraBarcelos-Java" height="30" width="87" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
      <img align="center" alt="EndersonpereiraBarcelos-Node.js" height="30" width="87" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+     <img align="center" alt="EndersonpereiraBarcelos-Ubuntu" height="30" width="87" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img align="center" alt="EndersonpereiraBarcelos-Express.js" height="30" width="87" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img align="center" alt="EndersonpereiraBarcelos-MySql" height="30" width="87" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
   
