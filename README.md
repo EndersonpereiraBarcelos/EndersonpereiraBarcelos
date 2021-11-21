@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/EndersonpereiraBarcelos">
-  <img height="160em" src=""/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EndersonpereiraBarcelos&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndersonpereiraBarcelos&layout=compact&langs_count=7&theme=panda"/>
 </div>
  
