@@ -1,24 +1,29 @@
-## 👩‍💻 Olá!! Eu sou Enderson, estudante de programação
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-  <a href="https://instagram.com/pbenderson" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "souza98120@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/enderson-pereira-barcelos-15949518b/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blak"></a>
- ##
-<div align="center">
-  <a href="https://github.com/EndersonpereiraBarcelos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EndersonpereiraBarcelos&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndersonpereiraBarcelos&layout=compact&langs_count=7&theme=panda"/>
-</div>
-  
-  ##
-  <div style="display: inline_block"><br>
-  <img align="center" alt="EndersonpereiraBarcelos-Html" height="30" width="87" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="EndersonpereiraBarcelos-Css" height="30" width="87" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="EndersonpereiraBarcelos-Js" height="30" width="89" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="EndersonpereiraBarcelos-Java" height="30" width="87" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-     <img align="center" alt="EndersonpereiraBarcelos-Node.js" height="30" width="90" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="EndersonpereiraBarcelos-Sequelize" height="30" width="90" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-     <img align="center" alt="EndersonpereiraBarcelos-Express.js" height="30" width="87" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    <img align="center" alt="EndersonpereiraBarcelos-Ubuntu" height="30" width="87" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img align="center" alt="EndersonpereiraBarcelos-MySql" height="30" width="90" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+<p align="left"> 
+ Olá, Meu nome é Enderson <strong>Back-end Developer</strong>.<br>
+ Estudando para me tornar um desenvolvedor Full-Stack
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>Java, JavaScript, Nodejs, Mysql, Docker.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VsCode, Trello, Git, Github.</strong>
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=souza98120@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enderson-pereira-barcelos-15949518b/" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
