@@ -2,15 +2,15 @@
 
 <p align="left"> 
  Olá, Meu nome é Enderson <strong>Back-end Developer</strong>.<br>
- Estudando para me tornar um desenvolvedor Full-Stack
+ Estudando para me tornar um desenvolvedor back-end
 </p>
 
 <p align="left">
-  🚀 Linguagens: <strong>Java, JavaScript, Nodejs, Mysql, Docker.</strong>
+  🚀 Linguagens: <strong>Java, JavaScript, Nodejs, Mysql.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VsCode, Trello, Git, Github.</strong>
+  💼 Ferramentas: <strong>VsCode, Trello, Git, Github, Docker</strong>
 </p>
 
 <p align="left">
