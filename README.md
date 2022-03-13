@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🚀 Linguagens: <strong>Java, JavaScript, Nodejs, Mysql.</strong>
+  🚀 Linguagens: <strong>Php, Java, JavaScript, Nodejs, sql.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VsCode, Trello, Git, Github, Docker</strong>
+  💼 Ferramentas: <strong>VsCode, Trello, Git, Github, Docker.</strong>
 </p>
 
 <p align="left">
