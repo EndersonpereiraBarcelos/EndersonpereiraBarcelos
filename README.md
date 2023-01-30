@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Olá, Meu nome é Enderson <strong>Back-end Developer</strong>.<br>
- Estudando para me tornar um desenvolvedor back-end
+ Olá, Meu nome é Enderson <strong>Back-end Developer</strong>. Cursando ciência da computação.<br>Estudando para me tornar um desenvolvedor back-end
 </p>
 
 <p align="left">
-  🚀 Linguagens: <strong>Php, Java, JavaScript, Nodejs, sql.</strong>
+  🚀 Linguagens: <strong>Php,JavaScript, Typecript, Nodejs, sql.</strong>
 </p>
 
 <p align="left">
