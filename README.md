@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🚀 Linguagens: <strong>Python3, Sql</strong>
+  🚀 Linguagens: <strong>Python3, Sql, NoSql</strong>
 </p>
 
 <p align="left">
