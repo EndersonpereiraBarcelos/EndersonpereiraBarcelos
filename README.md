@@ -1,16 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Olá, Meu nome é Enderson <strong>Data Science Developer</strong>. Cursando ciência da computação.<br>Estudando para me tornar um desenvolvedor back-end
+ Olá, Meu nome é Enderson <strong>Segurança da Informação</strong>. Cursando ciência da computação.<br>Estudando para me tornar um pentest ético
 </p>
 
 <p align="left">
-  🚀 Linguagens: <strong>Python3, Sql, NoSql</strong>
+  🚀 Linguagens: <strong>Python3, Sql, NoSql, terraform, aws</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VsCode, Trello, Git, Github, Docker.</strong>
+  💼 Ferramentas: <strong>VsCode, Trello, Git, Github, Docker, kali.</strong>
 </p>
+
+ <img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="50%" >
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
