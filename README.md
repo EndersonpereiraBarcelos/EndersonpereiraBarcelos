@@ -8,7 +8,7 @@
 ## Sobre Mim 👨‍💻
 
 Sou estudante de **Ciência da Computação** com foco em, **Segurança da Informação** e **DevOps**. Atualmente, estou me especializando em **pentest** e técnicas de hacking para me tornar um profissional em segurança cibernética. Adoro explorar dados, criar soluções inteligentes e descobrir vulnerabilidades em sistemas para torná-los mais seguros.
- <img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="60%" >
+ <img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="50%" >
 
 ## Tecnologias e Ferramentas 🛠️
 
