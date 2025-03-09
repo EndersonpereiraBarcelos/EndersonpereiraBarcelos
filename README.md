@@ -54,8 +54,8 @@ Aqui estão alguns dos meus projetos mais relevantes:
 ## Cursos e Certificações 📚
 
 - **Data Science**: [Curso de Data Science da Alura](https://www.alura.com.br)
-- **Segurança da Informação**: [Certificação em Pentest pela TryHackMe](https://solyd.com.br/)
-- **Python Avançado**: [Curso de Python Avançado da Udemy](https://www.udemy.com)
+- **Segurança da Informação**: [curso Introdução ao Hacking e Pentest 2.0](https://solyd.com.br/)
+- **Senai**: [Técnico desenvolvimento de sistemas](https://www.udemy.com)
 
 ## Objetivos Futuros 🌟
 
@@ -67,8 +67,6 @@ Aqui estão alguns dos meus projetos mais relevantes:
 
 Se você quiser colaborar em algum projeto, discutir ideias ou apenas bater um papo, sinta-se à vontade para entrar em contato:
 
-- **Email**: [seu-email@gmail.com](endersonpb0@gmail.com)
-- **LinkedIn**: [Meu Perfil no LinkedIn](https://www.linkedin.com/in/enderson-pereira-barcelos-15949518b/)
+- **Email**: [endersonpb0@gmail.com](endersonpb0@gmail.com)
+- **LinkedIn**: [EndersonpereiraBarcelos](https://www.linkedin.com/in/enderson-pereira-barcelos-15949518b/)
 - **Portfolio**: [Meu Portfolio](https://endersonpb.vercel.app/)
-
-![Snake animation](https://github.com/EndersonpereiraBarcelo/EndersonpereiraBarcelo/blob/output/github-contribution-grid-snake.svg)
