@@ -71,7 +71,7 @@ Aqui estão alguns dos meus projetos mais relevantes:
 - Obter certificações como **CEH (Certified Ethical Hacker)** e **OSCP (Offensive Security Certified Professional)**.
 - Contribuir para projetos open-source relacionados a segurança cibernética e análise de dados.
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/EndersonpereiraBarcelos/EndersonpereiraBarcelos/blob/output/github-contribution-grid-snake2.svg)
 
 <!-- ## Entre em Contato 📫
 
