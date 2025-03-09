@@ -1,29 +1,74 @@
+# Olá, eu sou [Enderson Pereira Barcelos]! 👋
 
-<p align="left"> 
- Olá, Meu nome é Enderson <strong>Segurança da Informação</strong>. Cursando ciência da computação.<br>Estudando para me tornar um pentest ético
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enderson-pereira-barcelos-15949518b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EndersonpereiraBarcelos)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](endersonpb0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://endersonpb.vercel.app/)
 
-<p align="left">
-  🚀 Linguagens: <strong>Python3, Sql, NoSql, terraform, aws</strong>
-</p>
+## Sobre Mim 👨‍💻
 
-<p align="left">
-  💼 Ferramentas: <strong>VsCode, Trello, Git, Github, Docker, kali.</strong>
-</p>
+Sou estudante de **Ciência da Computação** com foco em **Data Science** e **Segurança da Informação**. Atualmente, estou me especializando em **pentest** e técnicas de hacking para me tornar um profissional em segurança cibernética. Adoro explorar dados, criar soluções inteligentes e descobrir vulnerabilidades em sistemas para torná-los mais seguros.
 
- <img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="50%" >
+## Tecnologias e Ferramentas 🛠️
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/enderson-pereira-barcelos-15949518b/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enderson-pereira-barcelos-15949518b/e"/>
-  </a>
+### Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-  <a href="https://www.instagram.com/endersonpb/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/endersonpb"/>
-  </a>  
+### Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-  ![Snake animation](https://github.com/EndersonpereiraBarcelos/EndersonpereiraBarcelos/blob/output/github-contribution-grid-snake.svg)
+### Segurança da Informação
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F61?style=for-the-badge)
+
+### Ferramentas de Desenvolvimento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<!-- ## Projetos em Destaque 🚀
+
+Aqui estão alguns dos meus projetos mais relevantes:
+
+### 1. [Análise de Dados de Vendas](https://github.com/seu-usuario/analise-dados-vendas)
+- **Descrição**: Um projeto de análise exploratória de dados (EDA) utilizando Python, Pandas e Matplotlib para identificar tendências e insights em dados de vendas.
+- **Tecnologias**: Python, Pandas, Matplotlib, Jupyter Notebook.
+
+### 2. [Script de Automação de Pentest](https://github.com/seu-usuario/automacao-pentest)
+- **Descrição**: Um script em Bash para automatizar varreduras de vulnerabilidades em redes e sistemas.
+- **Tecnologias**: Bash, Nmap, Metasploit.
+
+### 3. [Sistema de Detecção de Intrusão](https://github.com/seu-usuario/sistema-intrusao)
+- **Descrição**: Um sistema básico de detecção de intrusão (IDS) desenvolvido em Python para monitorar tráfego de rede.
+- **Tecnologias**: Python, Scapy, Wireshark. -->
+
+## Cursos e Certificações 📚
+
+- **Data Science**: [Curso de Data Science da Alura](https://www.alura.com.br)
+- **Segurança da Informação**: [Certificação em Pentest pela TryHackMe](https://solyd.com.br/)
+- **Python Avançado**: [Curso de Python Avançado da Udemy](https://www.udemy.com)
+
+## Objetivos Futuros 🌟
+
+- Aprofundar meus conhecimentos em **machine learning** e **deep learning**.
+- Obter certificações como **CEH (Certified Ethical Hacker)** e **OSCP (Offensive Security Certified Professional)**.
+- Contribuir para projetos open-source relacionados a segurança cibernética e análise de dados.
+
+## Entre em Contato 📫
+
+Se você quiser colaborar em algum projeto, discutir ideias ou apenas bater um papo, sinta-se à vontade para entrar em contato:
+
+- **Email**: [seu-email@gmail.com](endersonpb0@gmail.com)
+- **LinkedIn**: [Meu Perfil no LinkedIn](https://www.linkedin.com/in/enderson-pereira-barcelos-15949518b/)
+- **Portfolio**: [Meu Portfolio](https://endersonpb.vercel.app/)
+
+![Snake animation](https://github.com/EndersonpereiraBarcelo/EndersonpereiraBarcelo/blob/output/github-contribution-grid-snake.svg)
