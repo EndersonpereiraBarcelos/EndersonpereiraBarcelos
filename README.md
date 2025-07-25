@@ -15,13 +15,12 @@ Sou estudante de **Ciência da Computação** com foco em, **Segurança da Infor
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 ### Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -40,24 +39,12 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 ### Ferramentas de Desenvolvimento
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<!-- ## Projetos em Destaque 🚀
 
-Aqui estão alguns dos meus projetos mais relevantes:
-
-### 1. [Análise de Dados de Vendas](https://github.com/seu-usuario/analise-dados-vendas)
-- **Descrição**: Um projeto de análise exploratória de dados (EDA) utilizando Python, Pandas e Matplotlib para identificar tendências e insights em dados de vendas.
-- **Tecnologias**: Python, Pandas, Matplotlib, Jupyter Notebook.
-
-### 2. [Script de Automação de Pentest](https://github.com/seu-usuario/automacao-pentest)
-- **Descrição**: Um script em Bash para automatizar varreduras de vulnerabilidades em redes e sistemas.
-- **Tecnologias**: Bash, Nmap, Metasploit.
-
-### 3. [Sistema de Detecção de Intrusão](https://github.com/seu-usuario/sistema-intrusao)
-- **Descrição**: Um sistema básico de detecção de intrusão (IDS) desenvolvido em Python para monitorar tráfego de rede.
-- **Tecnologias**: Python, Scapy, Wireshark. -->
 
 ## Cursos e Certificações 📚
 
